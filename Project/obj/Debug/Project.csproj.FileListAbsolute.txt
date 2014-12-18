@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\Tor Browser\Project_chlen\bin\Debug\Project_chlen.exe.config
+C:\Users\User\Desktop\Tor Browser\Project_chlen\obj\Debug\Project_chlen.exe
+C:\Users\User\Desktop\Tor Browser\Project_chlen\obj\Debug\Project_chlen.pdb
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Form1.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Form12.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Form2.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Form3.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Form4.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Form5.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Form7.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\bin\Debug\Project.exe.config
+C:\Users\Иван\Desktop\Project\Project_chlen\bin\Debug\Project.exe
+C:\Users\Иван\Desktop\Project\Project_chlen\bin\Debug\Project.pdb
+C:\Users\Иван\Desktop\Project\Project_chlen\bin\Debug\Project.exe.CodeAnalysisLog.xml
+C:\Users\Иван\Desktop\Project\Project_chlen\bin\Debug\Project.exe.lastcodeanalysissucceeded
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.exe
+C:\Users\Иван\Desktop\Project\Project_chlen\obj\Debug\Project.pdb
+C:\Users\Иван\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Иван\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Иван\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Form12.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Form3.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Form4.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Form5.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Form7.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Иван\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
